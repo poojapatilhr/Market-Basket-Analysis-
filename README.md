@@ -1,2 +1,2 @@
-# Market-Basket-Analysis-
-Market Basket Analysis 
+•	Developed a python program to analyze the grocery transaction data using an Apriori algorithm to find the frequent grocery itemset, I used these frequent grocery itemset to produce the association rules using the confidence and lift values. 
+•	I used the above association rules to understand the customer behavior when they buy the grocery, that helped to decide which grocery food item to sell with other items in a grocery store to increase the profit.
